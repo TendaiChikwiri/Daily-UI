@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>Credit Card Checkout</title>
+</head>
+<body>
+    <nav class="nav-bar">
+        <h3 class="nav-item done">Your Order</h3>
+        <h3 class="nav-item done">Shipping Details</h3>
+        <h3 class="nav-item active">Payment Details</h3>
+        <h3 class="nav-item inactive">Confirmation</h3>
+    </nav>
+    <div class="card-container">
+        <div class="card-input">
+            <h2>Payment Information</h2>
+            <form action="">
+                <label for="card-number"><h4>Card Number</h4></label><input maxlength="16" id="card-number" type="text">
+                <label for="cvv"><h4>CVV</h4></label><input maxlength="3" id="cvv" type="text">
+                <label for="expiry"><h4>Expiry</h4></label><input type="month" name="" id="expiry">
+                <label for="card-name"><h4>Name on Card</h4></label><input id="card-name" type="text">
+                <button id="pay-btn" type="button" ><h3>Purchase</h3></button>
+            </form>
+        </div>
+        <div class="order-details">
+            <div class="summary">
+                <h2>Order</h2>
+                <ul>
+                    <li>Lorem, ipsum dolor: $50</li>
+                    <li>Lorem, ipsum dolor: $50</li>
+                    <li>Lorem, ipsum dolor: $50</li>
+                    <li>Lorem, ipsum dolor: $50</li>
+                    <li>Lorem, ipsum dolor: $50</li>
+                    <li>Lorem, ipsum dolor: $50</li>
+                    <li>Lorem, ipsum dolor: $50</li>
+                    <li>Lorem, ipsum dolor: $50</li>
+                    <li>Lorem, ipsum dolor: $50</li>
+                    <li>Lorem, ipsum dolor: $50</li>
+                </ul>
+                <h1 id="total">Total: $500</h1>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
