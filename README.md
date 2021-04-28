@@ -5,3 +5,6 @@
 
 ### Day 002 - Create a sign up page
 <img src="Day002/credit-card.png" height="400">
+
+### Day 003 - Create a sign up page
+<img src="Day003/public/landing-page.png" height="400">
