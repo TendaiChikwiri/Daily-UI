@@ -11,3 +11,6 @@
 
 ### Day 004 - Create a calculator
 <img src="Day004/calculator.png" height="500">
+
+### Day 005 - Create a calculator
+<img src="Day005/bitmap.png" height="300">
