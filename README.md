@@ -14,3 +14,6 @@
 
 ### Day 005 - Create a App Icon
 <img src="Day005/bitmap.png" height="300">
+
+### Day 006 - Create a User Profile
+<img src="Day006/UserProfile.png" height="400">
