@@ -16,8 +16,10 @@
 <img src="Day005/bitmap.png" height="300">
 
 ### Day 006 - Create a User Profile
-<<<<<<< HEAD
 <img src="Day006/UserProfile.png" height="400">
 
 ### Day 007 - Create Settings Page
 <img src="Day007/settings.png" height="500">
+
+### Day 008 - Create 404 Not Found Page
+<img src="Day008/404.png" height="300">
